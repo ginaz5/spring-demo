@@ -13,8 +13,12 @@ implementation
 
 RESTful
 GET - get student info from database
+
 POST - add a student to database
+
 DELETE - delete a student from database by given id
+
 PUT - update student
+
 
 Packaging and Running application successfully
